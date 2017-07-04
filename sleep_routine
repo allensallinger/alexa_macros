@@ -1,0 +1,13 @@
+#!/bin/bash
+# Author: Allen Sallinger
+# Date July 3, 2017
+# sleep_routine, a command to run before sleep to set alarm and get the news
+
+
+say echo set alarm six thirty a m
+
+sleep 10
+
+say echo flash briefing
+
+
